@@ -38,8 +38,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdMixerMediationAppLovinBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-AdMixerDownload/raw/main/AdMixerMediationAppLovin1.0.5.xcframework.zip",
-            checksum: "fdcc7ea6521308fd3638cfb3e673e984edc630e9233abaf70bc999ffdf36a948"
+            url: "https://github.com/Nasmedia-Tech/iOS-SSP-AppLovin-SPM/releases/download/1.0.6/AdMixerMediationAppLovin1.0.6.xcframework.zip",
+            checksum: "dd5d9827dbedb751b88551dc0eb3b26b28b7eb649d362f73d6a191e6d64c058d"
         )
     ]
 )
