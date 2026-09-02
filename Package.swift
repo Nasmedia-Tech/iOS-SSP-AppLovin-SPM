@@ -19,7 +19,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/Nasmedia-Tech/iOS-SSP-Mediation-SPM.git",
-            from: "2.4.2"
+            from: "2.4.5"
         )
     ],
     targets: [
@@ -38,8 +38,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdMixerMediationAppLovinBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-SSP-AppLovin-SPM/releases/download/1.1.3/AdMixerMediationAppLovin1.1.3.xcframework.zip",
-            checksum: "d4b965d43e3f449ff34b8b314870f450f66951e33e7b1c63b74743d686f2b175"
+            url: "https://github.com/Nasmedia-Tech/iOS-SSP-AppLovin-SPM/releases/download/1.1.4/AdMixerMediationAppLovin1.1.4.xcframework.zip",
+            checksum: "f26fac04f7a61867af29eb75c93577fcb2ec9e399c951f8391cc0380019688f9"
         )
     ]
 )
